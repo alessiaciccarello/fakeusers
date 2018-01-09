@@ -1,6 +1,6 @@
 {
   "name": "fakeusersabc",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "a simple package to manage a fake user array",
   "main": "index.js",
   "scripts": {
