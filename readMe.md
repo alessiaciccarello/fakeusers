@@ -8,7 +8,7 @@
 ```javascript
 var fakeusers = require('fakeusersabc-package');
 
-console.log(this.getUsers()); // outputs all
+console.log(this.getUsers()); // outputs all users
 console.log(this.getUsersId(1)); // return user with id 1
 console.log(this.addUsers({name: "Carmen", surname: "Consoli"})); // add new user
 console.log(this.deleteUser(1)); // delete user with id 1
