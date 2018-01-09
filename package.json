@@ -1,0 +1,17 @@
+{
+  "name": "fakeusersabc",
+  "version": "0.0.1",
+  "description": "a simple package to manage a fake user array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake",
+    "user",
+    "users",
+    "array"
+  ],
+  "author": "alessiaciccarello",
+  "license": "MIT"
+}
